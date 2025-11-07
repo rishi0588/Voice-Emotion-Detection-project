@@ -35,7 +35,7 @@ It features a **Streamlit web app** that lets users upload or record voice sampl
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/voice-emotion-detection.git
+git clone https://github.com/rishi0588/Voice-Emotion-Detection-project.git
 cd voice-emotion-detection
 2️⃣ Install Dependencies
 bash
